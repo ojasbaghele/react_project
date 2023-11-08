@@ -1,0 +1,13 @@
+.book{
+    border: solid black;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+#books{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: auto;
+}

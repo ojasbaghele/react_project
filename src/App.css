@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+#div1{
+  position: absolute;
+  margin-left: auto;
+  top: 45%;
+  left: 45%; 
+}
