@@ -15,10 +15,6 @@ function App() {
   return (  
     <>
 
-
-
-    
-
     <div id="div1">
   {/*  Not In Use Components  */}
       {/* <Navbar site="Props"/> */}
