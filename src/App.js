@@ -11,9 +11,14 @@
 
 import ReactLayout from "./components/ReactLayout";
 
-
 function App() {
-  return (   
+  return (  
+    <>
+
+
+
+    
+
     <div id="div1">
   {/*  Not In Use Components  */}
       {/* <Navbar site="Props"/> */}
@@ -27,10 +32,11 @@ function App() {
       {/* <MapJS/> */}
       {/* <ReactForm/> */}
   {/*  In Use Components  */}
-      
+
       <ReactLayout/>
 
-      </div>   
+      </div> 
+      </>   
   );
 }
 export default App;

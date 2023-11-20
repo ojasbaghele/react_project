@@ -48,6 +48,16 @@ p{
     border-left-width: 0px;
     border-right-width: 0px;
 }
+.about-page{
+    display: flex;
+    height: 400px;
+    margin: 20px;
+    border: 5px solid rgba(255, 255, 255, 0.900);
+    border-radius: 30px;
+    overflow: hidden;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
 .left{
     background-color: rgba(31, 162, 185, 0.900);
     display: flex;
@@ -99,6 +109,10 @@ p{
 }
 
 /*! Specified */
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
 .nav-btns{
     display: flex;
     justify-content: space-around;

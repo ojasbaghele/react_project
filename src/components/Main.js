@@ -20,6 +20,7 @@ const Main =() =>{
     }
     return (
     <>
+    <div class="content">
         <div class = "left">
     
         <h3> Sidebar Left</h3>
@@ -48,6 +49,7 @@ const Main =() =>{
                     )
             })}                                   
             </div>
+        </div>
         </div>
         </>
     )
